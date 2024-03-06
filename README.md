@@ -1,5 +1,5 @@
     Implementation 1:
-Multiplication de 2 matrices
+Multiplication de 2 matrices 2^k * 2^k (carrées)
 
 ===>Complexite: O(n^3)
 
