@@ -1,0 +1,22 @@
+# Nom de l'exécutable
+TARGET = exec
+
+# Compilateur
+CC = gcc
+
+# Options de compilation
+CFLAGS = -Wall
+
+# Liste des fichiers source
+SOURCES = main_q2.c question_2.c
+
+# Règle de construction de l'exécutable
+$(TARGET): $(SOURCES)
+    $(CC) $(CFLAGS) $(SOURCES) -o $(TARGET)
+
+# Règle de nettoyage
+clean:
+    rm -f $(TARGET)
+
+# Règle par défaut
+.DEFAULT_GOAL := $(TARGET)
