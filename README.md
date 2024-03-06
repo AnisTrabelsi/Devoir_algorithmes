@@ -3,7 +3,6 @@ Multiplication de 2 matrices
 
 ===>Complexite: O(n^3)
 
-====
 =====Implementation 2:
 Inversion d'une matrice 2^k * 2^k en utilisant la multiplication standard
 
