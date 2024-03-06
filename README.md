@@ -1,9 +1,9 @@
-=====Implementation 1:
+    Implementation 1:
 Multiplication de 2 matrices
 
 ===>Complexite: O(n^3)
 
-=====Implementation 2:
+    Implementation 2:
 Inversion d'une matrice 2^k * 2^k en utilisant la multiplication standard
 
 Compilation : 
@@ -22,7 +22,7 @@ Remarque: il ya plusieurs exemples de matrices de taille 2^k*2^k (matriceB.txt o
 
 A noter : Les matrices A^TA et inverse A^TA et A^-1 sont affichées sur le terminal.Ainsi que le temps d'execution.
 
-=====Implementation 3 :
+    Implementation 3 :
 
 Inversion d'une matrice 2^k * 2^k en utilisant la multiplication standard
 
